@@ -1,0 +1,7 @@
+﻿Phishing,Benign,
+43,123,
+URL,Domain,Length
+www.test1.com,https,13
+www.test2.com,http,23
+www.test3.com,https,134
+www.test4.com,http,65
